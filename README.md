@@ -1,5 +1,5 @@
 # ConsoleZ-per
-> 个人配置版ConsoleZ
+> 个人配置版ConsoleZ windows 64位
 
 ### ConsoleZ.vbs
 添加文件夹右键快捷脚本代码，注册表编辑时需要使用 
